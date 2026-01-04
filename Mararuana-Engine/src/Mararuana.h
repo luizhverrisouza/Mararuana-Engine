@@ -4,7 +4,8 @@
 
 #include <stdio.h>
 #include "Mararuana/Application.h"
+#include "Mararuana/Log.h"
 
-//--EntryPoin----------------------
+// EntryPoint ---------------------
 #include "Mararuana/EntryPoint.h"
 //---------------------------------
